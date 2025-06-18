@@ -18,13 +18,12 @@ A responsive web interface for the Ratings and Review System , built using React
       
 
 ## 🧱 Tech Stack
-
-| Layer    | Tech Used         |
-|                          |                                                        |
-| Frontend  | React.js, Vite       |
-| Styling   | Tailwind CSS        |
-| HTTP Client |   'fetch' API        |
-| Backend API | Node.js + Express (REST)  |
-| Database  | MySQL           |
+| Layer       | Tech Used                  |
+|-------------|----------------------------|
+| Frontend    | React.js, Vite             |
+| Styling     | Tailwind CSS               |
+| HTTP Client | `fetch` API                |
+| Backend API | Node.js + Express (REST)   |
+| Database    | MySQL                      |
 
       
