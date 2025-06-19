@@ -2,7 +2,7 @@
 
 A responsive web interface for the Ratings and Review System , built using React.js and Vite . This application allows users to view products, submit ratings and reviews, and see aggregated feedback visually.
  
-📦 Backend Repository: [CustomerVoice Backend](https://github.com/sajal9685/CustomerVoice  backend)
+📦 Backend Repository: [CustomerVoice Backend] https://github.com/sajal9685/CustomerVoice-backend
 
       
 
